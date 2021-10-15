@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YouTubeDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "--url https://www.youtube.com/watch?v=Y7GGEK3KFSw --output video.mp4"
+    }
+  }
+}
